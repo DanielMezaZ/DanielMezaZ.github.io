@@ -18,7 +18,7 @@ The ideas of this section were based on the lecture by Moler, Strang in [^1]. St
 $$\hat{f}_n(x,y)=(x+iy)^n \in \mathbb{C}$$  
 
 It must be shown that the Ansatz function indeed solves the Laplace equation $\Delta f = 0$:  
-$$\Delta \hat{f}_n(x,y)=\frac{\partial^2 \hat{f}_n(x,y)}{{\partial x}^2}+\frac{\partial^2 \hat{f}_n(x,y)}{{\partial y}^2}$$  
+$$\Delta \hat{f}_n(x,y)=\frac{\partial^2 \hat{f}_n(x,y)}{\partial x^2}+\frac{\partial^2 \hat{f}_n(x,y)}{\partial y^2}$$  
 $$\Delta \hat{f}_n(x,y)=n(n-1)(x+iy)^{n-2}+i^2n(n-1)(x+iy)^{n-2}$$
 $$=(1+i^2)n(n-1)(x+iy)^{n-2}=0$$  
 
