@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://danielmezaz.github.io/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/categories/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/archives/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/posts/LaplaceFourier/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/posts/MScThesis/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/posts/SoftwareLab/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/posts/PoissonReconstruction/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/posts/Couette-Poissuille/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/fdm/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/triangle-meshes/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/visualize/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/finite-elements/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/fluid-mechanics/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/laplace-equation/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/stiffness-tensor/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/algorithmic-design/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/allen-cahn/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/b-splines/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/categories/academic-projects/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/categories/personal-projects/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/capillary-forces/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/constant-mean-curvature/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/couette-poissuille/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/euler-forward/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/fabrication/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/fourier-series/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/hookes-law/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/mechanics/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/parameter-study/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/poisson-problem/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/principal-stresses/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/surface-reconstruction/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/surface-tension/</loc>
+  <lastmod>2024-10-21T19:39:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/turbulence/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/validation/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/voxels/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/tags/young-laplace/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/posts/VisualStiffness/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/posts/PrincipalStressBeam/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/posts/ChannelFlow/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://danielmezaz.github.io/posts/BScThesis/</loc>
+  <lastmod>2024-10-21T19:39:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
