@@ -28,7 +28,7 @@ Having processed the user input guide curves and the surface, they need to be pu
 $$\hat{\phi}=-1 \; , \; x_j \in \Gamma_A$$  
 $$\hat{\phi}=+1 \; , \; x_j \in \Gamma_B$$  
 
-One important consideration is that the user's guide curves shall not need to coincide with the vertices of the mesh. For this reason, we exmploy the computed barycentric coordinates of the guide curves to apply boundary conditions in a weak formulation:  
+One important consideration is that the user's guide curves shall not need to coincide with the vertices of the mesh. For this reason, we exmploy the computed barycentric coordinates of the guide curves to apply boundary conditions in a weak formulation:    
  $$\phi=\hat\phi \quad \rightarrow \quad \int_{\Gamma} \phi \phi \,dx = \int_{\Gamma} \phi \hat\phi \,dx  \quad , \quad  x_j \in \Gamma$$  
 
  Analogous to the discretization and integration process from the Laplace solver, the previous formulation becomes a linear system $M_{mn}\phi_n = F_m$:  
@@ -36,7 +36,7 @@ $$\sum_l \sum_{GP} w_{GP} \{\det_{ij}[J_{ij}]\phi_m N_m N_n \phi_n\}_{GP} = \sum
 
 **Note**: One key difference in this integration step is that the quadrature points are defined on the guide curve, but the shape functions must be evaluated in the parametric coordinates of the triangle elements.  
 
-To combine the linear systems, a penalty approach is used with the factor $\beta$:
+To combine the linear systems, a penalty approach is used with the factor $\beta$:  
 $$(K_{mn}+\beta M_{mn})\phi_n=\beta F_m$$
 
 ## Results
