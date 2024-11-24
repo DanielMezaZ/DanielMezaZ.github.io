@@ -11,10 +11,14 @@ Over the course of two semesters, I worked in a group project together with Hold
 
 ## Method
 ### Guide Curves
-The method employs two guide curves provided by an user. After preparation of the guide curves through smoothening for example, the guide curves are projected onto a triangulated surface. Once on the surface, a transition from global coordinates to barycentric coordiantes takes place.  
+The method employs two guide curves provided by an user. After preparation of the guide curves through smoothening for example, the guide curves are projected onto a triangulated surface using barycentric coordinates on the triangle faces:  
+$$\{x,y,z\} \rightarrow \{ e, N_1 = \xi, N_2=\eta, N_3 = 1-\xi-\eta \}$$
+- $\{x,y,z\}$: Global coordinates
+- $e$: Face index  
+- $\{N_1,N_2,N_3\}$: Barycentric coordinates of face e
 
 ### Laplace Solver
-A subdomain of the surface is selected to only consider the relevant faces. On the subdomain, a Laplace solver is used to inform the problem about the surface shape. The Laplace solver employs a weak formulation to enable the usage of the finite element method:  
+A subdomain of the surface is selected to only consider the relevant faces. The current approach simply uses a bounding box as criterion, which does not always work. On the subdomain, a Laplace solver is used to inform the problem about the surface shape. The Laplace solver employs a weak formulation to enable the usage of the finite element method:  
 $$\frac{\partial^2 \phi}{\partial x_i^2} = 0 \quad \rightarrow \quad \int_{\Omega} \frac{\partial \phi}{\partial x_i} \frac{\partial \phi}{\partial x_i} dx = 0 \quad , \quad x_j \in \Omega$$
 
 After discretization and quadrature, the following system results $K_{mn}\phi_n=0_m$:  
